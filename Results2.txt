@@ -1,0 +1,9 @@
+Enter String Input or Enter Null Value to Quit:
+Talon Knowlton
+Currently stored string: Talon Knowlton        
+
+Enter String Input or Enter Null Value to Quit:
+
+Quit button pressed, ending input functionality.
+
+Final output: AKLLNNNOOOTTW

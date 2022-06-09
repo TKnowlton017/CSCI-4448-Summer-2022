@@ -1,0 +1,119 @@
+Sample results from output of Main_Program1.java
+
+
+Entering Integers Example
+NOTE: By default all numerical inputs are turned into doubles
+--------------------------
+Enter A Number or Enter Null Value to Quit:
+23
+Current array: 
+23.0,
+
+Enter A Number or Enter Null Value to Quit:
+23
+Current array: 
+23.0, 23.0,
+
+Enter A Number or Enter Null Value to Quit:
+12
+Current array: 
+23.0, 23.0, 12.0,
+
+Enter A Number or Enter Null Value to Quit:
+10
+Current array: 
+23.0, 23.0, 12.0, 10.0,
+
+Enter A Number or Enter Null Value to Quit:
+16
+Current array: 
+23.0, 23.0, 12.0, 10.0, 16.0,
+
+Enter A Number or Enter Null Value to Quit:
+23
+Current array: 
+23.0, 23.0, 12.0, 10.0, 16.0, 23.0,
+
+Enter A Number or Enter Null Value to Quit:
+21
+Current array: 
+23.0, 23.0, 12.0, 10.0, 16.0, 23.0, 21.0,
+
+Enter A Number or Enter Null Value to Quit:
+16
+Current array: 
+23.0, 23.0, 12.0, 10.0, 16.0, 23.0, 21.0, 16.0,
+
+Enter A Number or Enter Null Value to Quit:
+
+Quit button pressed, ending input functionality.
+The list sum is 144.0
+The list median is 18.5
+The list mean is 18.000
+The list sample standard deviation is 5.237
+The list minimum is 10.0
+The list maximum is 23.0
+-----------<End of Program>-------------
+
+
+
+
+
+Entering Real Numbers Example 
+--------------------------------------
+
+Enter A Number or Enter Null Value to Quit:
+23.5
+Current array: 
+23.5,
+
+Enter A Number or Enter Null Value to Quit:
+23.5
+Current array: 
+23.5, 23.5,
+
+Enter A Number or Enter Null Value to Quit:
+12.5
+Current array: 
+23.5, 23.5, 12.5,
+
+Enter A Number or Enter Null Value to Quit:
+10.5
+Current array: 
+23.5, 23.5, 12.5, 10.5,
+
+Enter A Number or Enter Null Value to Quit:
+16.5
+Current array: 
+23.5, 23.5, 12.5, 10.5, 16.5,
+
+Enter A Number or Enter Null Value to Quit:
+23.5
+Current array: 
+23.5, 23.5, 12.5, 10.5, 16.5, 23.5,
+
+Enter A Number or Enter Null Value to Quit:
+21.5
+Current array: 
+23.5, 23.5, 12.5, 10.5, 16.5, 23.5, 21.5,
+
+Enter A Number or Enter Null Value to Quit:
+16.5
+Current array: 
+23.5, 23.5, 12.5, 10.5, 16.5, 23.5, 21.5, 16.5,
+
+Enter A Number or Enter Null Value to Quit:
+hello world
+ERROR: need to input a number
+
+Enter A Number or Enter Null Value to Quit:
+
+Quit button pressed, ending input functionality.
+The list sum is 148.0
+The list median is 19.0
+The list mean is 18.500
+The list sample standard deviation is 5.237
+The list minimum is 10.5
+The list maximum is 23.5
+----------<End of Program>------------
+
